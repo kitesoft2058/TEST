@@ -1,3 +1,3 @@
 function show(){
-  document.getElementById('aa').innerHTML= "Nice to meet you"
+  document.getElementById('aa').textContent= "Nice to meet you"
 }
